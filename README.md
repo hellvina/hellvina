@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on test automation and documentation. Proficient in API integration, microservices architecture. Currently transitioning to develop with C#, .NET, and C++. Looking foward to specialize in Microsoft technologies with a focus on distributed systems and advanced technical development. <br />I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on test automation and documentation. Proficient in API integration, microservices architecture. Looking foward to specialize and focus on distributed systems and advanced technical development. <br />I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web development, Distributed Systems, and Games**
 - 🌱 I’m currently learning ...
   - C++ and C#
